@@ -3,8 +3,25 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+debug/
+wandb/
+data/
+output/
+runs/
+logs/
+results/
+archives/
+ww-*
+*.lock
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/*
+
 # C extensions
 *.so
+*.codex
 
 # Distribution / packaging
 .Python
